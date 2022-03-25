@@ -3,3 +3,4 @@ flower==0.9.7
 Jinja2==2.11.3
 pytest==6.2.4
 uvicorn[standard]==0.13.4
+requests
